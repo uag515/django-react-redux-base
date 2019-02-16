@@ -87,7 +87,7 @@ There are commands you need to compile javascript and run project. Ideally `yarn
 * `$ yarn `
 * `$ yarn run dev`  # will run webpack with watch and compile code as it changes
 
-* `$ virtualenv -p /usr/bin/python3 virtualenv`
+* `$ virtualenv -p /usr/local/bin/python3 virtualenv`
 * `$ source virtualenv/bin/activate`
 * `$ pip install -r py-requirements/dev.txt`
 
